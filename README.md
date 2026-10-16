@@ -26,7 +26,7 @@ I'm **Anisha More**, a **B.Tech student in Artificial Intelligence & Data Scienc
 </td>
 <td width="32%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated developer working on code and software dashboards" width="320">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" alt="Animated woman software developer coding at a computer" width="320">
 
 </td>
 </tr>
