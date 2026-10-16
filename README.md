@@ -125,52 +125,6 @@ A personal portfolio presenting my projects, education, skills, and industrial a
 
 <a href="https://amanishamore1-ux.github.io/MyProtfolio/"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-000000?style=for-the-badge" alt="Visit Anisha's portfolio"></a>
 
----
-
-## Experience & Committee Roles
-
-### Industrial Automation Intern
-**NM Automation & Control Pvt. Ltd. · Malad, Mumbai · 2024–2025**
-
-- Completed a **six-month internship** with practical exposure to PLC programming, HMI interfaces, sensor interfacing, and control-panel wiring.
-- Gained exposure to **firmware and control-software workflows**, including I/O handling, control logic, and hardware-software integration.
-- Learned automation system design, troubleshooting, and industrial safety practices.
-
-### Content Secretary — Elites Dance Committee
-**Current**
-
-Support **content planning and written communication** for dance activities and committee events.
-
-### Assistant Managing Director — CRID Committee
-**Former**
-
-Supported **committee management, team coordination, and planning** of committee activities.
-
----
-
-## Achievements
-
-- **3rd Rank in College** — Diploma in EXTC Engineering, SBMP.
-- **National Level Project Competition** — Samarthya 2026.
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/amanishamore1-ux?tab=overview">
-  <img src="https://ghchart.rshah.org/E100FF/amanishamore1-ux" alt="Anisha More's GitHub contribution graph" width="900">
-</a>
-
-<br><br>
-
-<a href="https://amanishamore1-ux.github.io/MyProtfolio/bubble-shooter.html"><img src="https://img.shields.io/badge/PLAY_ARCADE-E100FF?style=for-the-badge" alt="Play the arcade game on Anisha's portfolio"></a>
-
-</div>
-
----
-
 <div align="center">
 
 **Let's Connect**
