@@ -41,16 +41,6 @@ My six-month internship at **NM Automation & Control Pvt. Ltd.** gave me exposur
 </tr>
 </table>
 
----
-
-## Education
-
-| Qualification | Institute | Duration | Academic Record |
-|---|---|---|---|
-| **B.Tech in Artificial Intelligence & Data Science** | MCT's Rajiv Gandhi Institute of Technology, Mumbai University | 2025–2028 | CGPA: **9.27/10.0** |
-| **Diploma in Electronics & Telecommunication Engineering** | SVKM's Shri Bhagubhai Mafatlal Polytechnic and College of Engineering | 2022–2025 | CGPA: **9.3/10.0** |
-
----
 
 ## Tech Stack
 
