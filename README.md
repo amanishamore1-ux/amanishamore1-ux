@@ -8,16 +8,21 @@
 <a href="https://github.com/amanishamore1-ux"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/anisha-more-6872b93b4/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:amanishamore1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+
 </div>
 
-About Me
+## About Me
+
 <table>
 <tr>
 <td width="68%" valign="top">
 
-Anisha More · <a href="https://amanishamore1-ux.github.io/MyProtfolio/assets/documents/Anisha_More_Resume.pdf">Resume</a>
-I'm Anisha More, a B.Tech student in Artificial Intelligence & Data Science at MCT's Rajiv Gandhi Institute of Technology, Mumbai University.
-Software Development · Backend APIs · AI-Powered Web Applications
+### Anisha More · <a href="https://amanishamore1-ux.github.io/MyProtfolio/assets/documents/Anisha_More_Resume.pdf">Resume</a>
+
+I'm **Anisha More**, a **B.Tech student in Artificial Intelligence & Data Science** at **MCT's Rajiv Gandhi Institute of Technology, Mumbai University**.
+
+**Software Development · Backend APIs · AI-Powered Web Applications**
+
 </td>
 <td width="32%" align="center" valign="middle">
 
@@ -27,7 +32,10 @@ Software Development · Backend APIs · AI-Powered Web Applications
 </tr>
 </table>
 
-Tech Stack
+---
+
+## Tech Stack
+
 <table>
 <tr><td><b>Programming Languages</b></td><td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
@@ -59,26 +67,47 @@ Tech Stack
 </td></tr>
 </table>
 
-Featured Projects
-WriteMate — AI-Assisted Blogging Platform
-A Python/Django application combining blog management with AI-assisted writing. Generates draft content, helps refine existing text, and provides a single workflow for creating, editing, and managing blog posts.
-Tech: Python · Django · AI-assisted content generation
+---
+
+## Featured Projects
+
+### [WriteMate — AI-Assisted Blogging Platform](https://github.com/amanishamore1-ux/WriteMate)
+
+A **Python/Django application** combining blog management with **AI-assisted writing**. Generates draft content, helps refine existing text, and provides a single workflow for creating, editing, and managing blog posts.
+
+**Tech:** Python · Django · AI-assisted content generation
+
 <a href="https://github.com/amanishamore1-ux/WriteMate"><img src="https://img.shields.io/badge/VIEW_CODE-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View WriteMate repository"></a>
-MedIntel — AI-Powered Healthcare & Patient Management Platform
-A Django REST Framework platform for patient records, health-data ingestion, alerts, report uploads, and historical analysis. Supports temperature, SpO₂, blood pressure, blood glucose, and ECG data, with AI disease prediction, Ollama-backed health explanations, and AI-assisted ECG analysis.
-Tech: Python · Django REST Framework · REST APIs · SQL · JavaScript · AI/ML · MQTT · Ollama
+
+### [MedIntel — AI-Powered Healthcare & Patient Management Platform](https://github.com/amanishamore1-ux/MedIntel)
+
+A **Django REST Framework platform** for patient records, health-data ingestion, alerts, report uploads, and historical analysis. Supports temperature, SpO₂, blood pressure, blood glucose, and ECG data, with **AI disease prediction, Ollama-backed health explanations, and AI-assisted ECG analysis**.
+
+**Tech:** Python · Django REST Framework · REST APIs · SQL · JavaScript · AI/ML · MQTT · Ollama
+
 <a href="https://github.com/amanishamore1-ux/MedIntel"><img src="https://img.shields.io/badge/VIEW_CODE-0F766E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View MedIntel repository"></a>
-Personal Portfolio
-A personal developer website showcasing software projects, technical skills, education, and experience, with dedicated project and contact pages.
-Tech: HTML · CSS · JavaScript
+
+### [Personal Portfolio](https://github.com/amanishamore1-ux/MyProtfolio)
+
+A personal developer website showcasing **software projects, technical skills, education, and experience**, with dedicated project and contact pages.
+
+**Tech:** HTML · CSS · JavaScript
+
 <a href="https://github.com/amanishamore1-ux/MyProtfolio"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View portfolio repository"></a>
 <a href="https://amanishamore1-ux.github.io/MyProtfolio/"><img src="https://img.shields.io/badge/LIVE_WEBSITE-0969DA?style=for-the-badge" alt="Visit Anisha's portfolio"></a>
+
+---
+
 <div align="center">
 
-Let's Connect
+**Let's Connect**
+
 <a href="https://www.linkedin.com/in/anisha-more-6872b93b4/">LinkedIn</a> ·
 <a href="mailto:amanishamore1@gmail.com">Email</a> ·
 <a href="https://amanishamore1-ux.github.io/MyProtfolio/">Portfolio</a>
 
-Code · Build · Improve
+<br>
+
+**Code · Build · Improve**
+
 </div>
