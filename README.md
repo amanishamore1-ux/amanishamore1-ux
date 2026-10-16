@@ -8,22 +8,30 @@
 <a href="https://github.com/amanishamore1-ux"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/anisha-more-6872b93b4/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:amanishamore1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+
 </div>
 
-About Me
+## About Me
+
 <table>
 <tr>
 <td width="68%" valign="top">
 
-Anisha More · <a href="https://amanishamore1-ux.github.io/MyProtfolio/assets/documents/Anisha_More_Resume.pdf">Resume</a>
-I'm Anisha More, a B.Tech student in Artificial Intelligence & Data Science at MCT's Rajiv Gandhi Institute of Technology, Mumbai University. I also hold a Diploma in Electronics & Telecommunication Engineering from SVKM's Shri Bhagubhai Mafatlal Polytechnic and College of Engineering.
-My work focuses on Python, Django, SQL, and AI-assisted applications. My projects include a blogging platform with AI writing support, a group expense splitter, and an AI-enabled healthcare monitoring platform.
-My six-month internship at NM Automation & Control Pvt. Ltd. gave me exposure to PLC programming, HMI interfaces, sensor interfacing, and firmware/control-software workflows.
-Areas of interest:
+### Anisha More · <a href="https://amanishamore1-ux.github.io/MyProtfolio/assets/documents/Anisha_More_Resume.pdf">Resume</a>
+
+I'm **Anisha More**, a **B.Tech student in Artificial Intelligence & Data Science** at **MCT's Rajiv Gandhi Institute of Technology, Mumbai University**. I also hold a **Diploma in Electronics & Telecommunication Engineering** from **SVKM's Shri Bhagubhai Mafatlal Polytechnic and College of Engineering**.
+
+My work focuses on **Python, Django, SQL, and AI-assisted applications**. My projects include a blogging platform with AI writing support, a group expense splitter, and an AI-enabled healthcare monitoring platform.
+
+My six-month internship at **NM Automation & Control Pvt. Ltd.** gave me exposure to **PLC programming, HMI interfaces, sensor interfacing, and firmware/control-software workflows**.
+
+**Areas of interest:**
 - Python and Django web development
 - AI-assisted content creation and healthcare applications
 - Database-backed applications and practical problem solving
-Based in: Mumbai, Maharashtra, India
+
+**Based in:** Mumbai, Maharashtra, India
+
 </td>
 <td width="32%" align="center" valign="middle">
 
@@ -33,13 +41,19 @@ Based in: Mumbai, Maharashtra, India
 </tr>
 </table>
 
-Education
-Qualification	Institute	Duration	Academic Record
-B.Tech in Artificial Intelligence & Data Science	MCT's Rajiv Gandhi Institute of Technology, Mumbai University	2025–2028	CGPA: 9.27/10.0
-Diploma in Electronics & Telecommunication Engineering	SVKM's Shri Bhagubhai Mafatlal Polytechnic and College of Engineering	2022–2025	CGPA: 9.3/10.0
+---
 
+## Education
 
-Tech Stack
+| Qualification | Institute | Duration | Academic Record |
+|---|---|---|---|
+| **B.Tech in Artificial Intelligence & Data Science** | MCT's Rajiv Gandhi Institute of Technology, Mumbai University | 2025–2028 | CGPA: **9.27/10.0** |
+| **Diploma in Electronics & Telecommunication Engineering** | SVKM's Shri Bhagubhai Mafatlal Polytechnic and College of Engineering | 2022–2025 | CGPA: **9.3/10.0** |
+
+---
+
+## Tech Stack
+
 <table>
 <tr><td><b>Programming Languages</b></td><td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
@@ -79,55 +93,94 @@ Tech Stack
 </td></tr>
 </table>
 
-Featured Projects
-AI-Based Blogging Platform
-Developed a Python/Django blogging platform combining blog management with AI-assisted writing. Integrated content generation for draft posts and editing assistance to enhance existing text, with a user-friendly workflow for creating, editing, and managing blogs.
-Tech: Python · Django · AI-assisted content generation
+---
+
+## Featured Projects
+
+### AI-Based Blogging Platform
+
+Developed a **Python/Django blogging platform** combining blog management with **AI-assisted writing**. Integrated content generation for draft posts and editing assistance to enhance existing text, with a user-friendly workflow for creating, editing, and managing blogs.
+
+**Tech:** Python · Django · AI-assisted content generation
+
 <a href="https://amanishamore1-ux.github.io/MyProtfolio/projects.html#ai-blog"><img src="https://img.shields.io/badge/PROJECT_DETAILS-7C3AED?style=for-the-badge" alt="Blogging project details"></a>
-Smart Expense Splitter
-Developed a multi-user expense management application to record shared group expenses and split costs among participants. Automated expense tracking, each participant's share, and individual balance calculations to make group spending easier to review and reconcile.
-Key Features: Shared expenses · Cost splitting · Expense tracking · Per-user balances
+
+### Smart Expense Splitter
+
+Developed a **multi-user expense management application** to record shared group expenses and split costs among participants. Automated expense tracking, each participant's share, and individual balance calculations to make group spending easier to review and reconcile.
+
+**Key Features:** Shared expenses · Cost splitting · Expense tracking · Per-user balances
+
 <a href="https://amanishamore1-ux.github.io/MyProtfolio/projects.html#expense-splitter"><img src="https://img.shields.io/badge/PROJECT_DETAILS-0F766E?style=for-the-badge" alt="Expense splitter project details"></a>
-MedIntel — AI-Powered Remote Healthcare & Patient Monitoring Platform
-Developed a Django REST Framework healthcare platform for real-time monitoring and historical analysis of temperature, SpO₂, blood pressure, blood glucose, and ECG data. Built patient records, health alerts, report uploads, and AI disease-prediction workflows, with Kimi-K2.6 via Ollama for simplified health explanations and AI-assisted ECG analysis.
-Tech: Python · Django REST Framework · SQL · JavaScript · AI/ML · MQTT · Ollama
-Personal Portfolio
+
+### MedIntel — AI-Powered Remote Healthcare & Patient Monitoring Platform
+
+Developed a **Django REST Framework healthcare platform** for real-time monitoring and historical analysis of temperature, SpO₂, blood pressure, blood glucose, and ECG data. Built patient records, health alerts, report uploads, and AI disease-prediction workflows, with **Kimi-K2.6 via Ollama** for simplified health explanations and AI-assisted ECG analysis.
+
+**Tech:** Python · Django REST Framework · SQL · JavaScript · AI/ML · MQTT · Ollama
+
+### Personal Portfolio
+
 A personal portfolio presenting my projects, education, skills, and industrial automation experience.
+
 <a href="https://amanishamore1-ux.github.io/MyProtfolio/"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-000000?style=for-the-badge" alt="Visit Anisha's portfolio"></a>
-Experience & Committee Roles
-Industrial Automation Intern
-NM Automation & Control Pvt. Ltd. · Malad, Mumbai · 2024–2025
-- Completed a six-month internship with practical exposure to PLC programming, HMI interfaces, sensor interfacing, and control-panel wiring.
-- Gained exposure to firmware and control-software workflows, including I/O handling, control logic, and hardware-software integration.
+
+---
+
+## Experience & Committee Roles
+
+### Industrial Automation Intern
+**NM Automation & Control Pvt. Ltd. · Malad, Mumbai · 2024–2025**
+
+- Completed a **six-month internship** with practical exposure to PLC programming, HMI interfaces, sensor interfacing, and control-panel wiring.
+- Gained exposure to **firmware and control-software workflows**, including I/O handling, control logic, and hardware-software integration.
 - Learned automation system design, troubleshooting, and industrial safety practices.
-Content Secretary — Elites Dance Committee
-Current
-Support content planning and written communication for dance activities and committee events.
-Assistant Managing Director — CRID Committee
-Former
-Supported committee management, team coordination, and planning of committee activities.
-Achievements
-- 3rd Rank in College — Diploma in EXTC Engineering, SBMP.
-- National Level Project Competition — Samarthya 2026.
-Contribution Graph
+
+### Content Secretary — Elites Dance Committee
+**Current**
+
+Support **content planning and written communication** for dance activities and committee events.
+
+### Assistant Managing Director — CRID Committee
+**Former**
+
+Supported **committee management, team coordination, and planning** of committee activities.
+
+---
+
+## Achievements
+
+- **3rd Rank in College** — Diploma in EXTC Engineering, SBMP.
+- **National Level Project Competition** — Samarthya 2026.
+
+---
+
+## Contribution Graph
+
 <div align="center">
 
 <a href="https://github.com/amanishamore1-ux?tab=overview">
   <img src="https://ghchart.rshah.org/E100FF/amanishamore1-ux" alt="Anisha More's GitHub contribution graph" width="900">
 </a>
 
-
-
+<br><br>
 
 <a href="https://amanishamore1-ux.github.io/MyProtfolio/bubble-shooter.html"><img src="https://img.shields.io/badge/PLAY_ARCADE-E100FF?style=for-the-badge" alt="Play the arcade game on Anisha's portfolio"></a>
+
 </div>
+
+---
 
 <div align="center">
 
-Let's Connect
+**Let's Connect**
+
 <a href="https://www.linkedin.com/in/anisha-more-6872b93b4/">LinkedIn</a> ·
 <a href="mailto:amanishamore1@gmail.com">Email</a> ·
 <a href="https://amanishamore1-ux.github.io/MyProtfolio/">Portfolio</a>
 
-Learning · Building · Creating
+<br>
+
+**Learning · Building · Creating**
+
 </div>
