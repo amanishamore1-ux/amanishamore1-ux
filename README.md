@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=38&amp;duration=2500&amp;pause=1400&amp;color=E100FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=Hi%2C+I%27m+Anisha+More" alt="Hi, I'm Anisha More" width="850">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=38&amp;duration=2500&amp;pause=1400&amp;color=EC4899&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=Hi%2C+I%27m+Anisha+More" alt="Hi, I'm Anisha More" width="850">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=23&amp;duration=2500&amp;pause=1000&amp;color=00C896&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=60&amp;lines=Software+Development;Python+%7C+Django+%7C+JavaScript+%7C+SQL;Backend+Development+%26+REST+APIs;AI-Powered+Web+Applications" alt="Software development, Python, Django, JavaScript and SQL" width="900">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=23&amp;duration=2500&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=60&amp;lines=Software+Development;Python+%7C+Django+%7C+JavaScript+%7C+SQL;Backend+Development+%26+REST+APIs;AI-Powered+Web+Applications" alt="Software development, Python, Django, JavaScript and SQL" width="900">
 
-<a href="https://amanishamore1-ux.github.io/MyProtfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge" alt="Portfolio"></a>
-<a href="https://github.com/amanishamore1-ux"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/anisha-more-6872b93b4/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:amanishamore1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+<a href="https://amanishamore1-ux.github.io/MyProtfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-BE185D?style=for-the-badge" alt="Portfolio"></a>
+<a href="https://github.com/amanishamore1-ux"><img src="https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/anisha-more-6872b93b4/"><img src="https://img.shields.io/badge/LINKEDIN-DB2777?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:amanishamore1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-9333EA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -26,7 +26,7 @@ I'm **Anisha More**, a **B.Tech student in Artificial Intelligence & Data Scienc
 </td>
 <td width="32%" align="center" valign="middle">
 
-<img src="https://github.com/amanishamore1-ux.png?size=400" alt="Anisha More" width="240">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated developer working on code and software dashboards" width="320">
 
 </td>
 </tr>
@@ -38,32 +38,32 @@ I'm **Anisha More**, a **B.Tech student in Artificial Intelligence & Data Scienc
 
 <table>
 <tr><td><b>Programming Languages</b></td><td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL">
+<img src="https://img.shields.io/badge/Python-BE185D?style=flat&amp;logo=python&amp;logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-7C3AED?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-DB2777?style=flat&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/SQL-9333EA?style=flat" alt="SQL">
 </td></tr>
 <tr><td><b>Web Development & APIs</b></td><td>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django REST Framework">
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css&amp;logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/Django-BE185D?style=flat&amp;logo=django&amp;logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/Django_REST_Framework-7C3AED?style=flat&amp;logo=django&amp;logoColor=white" alt="Django REST Framework">
+<img src="https://img.shields.io/badge/REST_APIs-DB2777?style=flat" alt="REST APIs">
+<img src="https://img.shields.io/badge/HTML5-9333EA?style=flat&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-BE185D?style=flat&amp;logo=css&amp;logoColor=white" alt="CSS3">
 </td></tr>
 <tr><td><b>Databases</b></td><td>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/MySQL-7C3AED?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/SQLite-DB2777?style=flat&amp;logo=sqlite&amp;logoColor=white" alt="SQLite">
 </td></tr>
 <tr><td><b>AI & Software Integration</b></td><td>
-<img src="https://img.shields.io/badge/AI_Assisted_Content-7C3AED?style=flat-square" alt="AI-assisted content generation">
-<img src="https://img.shields.io/badge/Disease_Prediction-0F766E?style=flat-square" alt="Disease prediction">
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&amp;logo=ollama&amp;logoColor=white" alt="Ollama">
-<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&amp;logo=mqtt&amp;logoColor=white" alt="MQTT">
+<img src="https://img.shields.io/badge/AI_Assisted_Content-9333EA?style=flat" alt="AI-assisted content generation">
+<img src="https://img.shields.io/badge/Disease_Prediction-BE185D?style=flat" alt="Disease prediction">
+<img src="https://img.shields.io/badge/Ollama-7C3AED?style=flat&amp;logo=ollama&amp;logoColor=white" alt="Ollama">
+<img src="https://img.shields.io/badge/MQTT-DB2777?style=flat&amp;logo=mqtt&amp;logoColor=white" alt="MQTT">
 </td></tr>
 <tr><td><b>Tools & Platforms</b></td><td>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" alt="VS Code">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/VS_Code-9333EA?style=flat" alt="VS Code">
+<img src="https://img.shields.io/badge/GitHub-BE185D?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Linux-7C3AED?style=flat&amp;logo=linux&amp;logoColor=white" alt="Linux">
 </td></tr>
 </table>
 
@@ -77,7 +77,7 @@ A **Python/Django application** combining blog management with **AI-assisted wri
 
 **Tech:** Python · Django · AI-assisted content generation
 
-<a href="https://github.com/amanishamore1-ux/WriteMate"><img src="https://img.shields.io/badge/VIEW_CODE-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View WriteMate repository"></a>
+<a href="https://github.com/amanishamore1-ux/WriteMate"><img src="https://img.shields.io/badge/VIEW_CODE-DB2777?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View WriteMate repository"></a>
 
 ### [MedIntel — AI-Powered Healthcare & Patient Management Platform](https://github.com/amanishamore1-ux/MedIntel)
 
@@ -85,7 +85,7 @@ A **Django REST Framework platform** for patient records, health-data ingestion,
 
 **Tech:** Python · Django REST Framework · REST APIs · SQL · JavaScript · AI/ML · MQTT · Ollama
 
-<a href="https://github.com/amanishamore1-ux/MedIntel"><img src="https://img.shields.io/badge/VIEW_CODE-0F766E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View MedIntel repository"></a>
+<a href="https://github.com/amanishamore1-ux/MedIntel"><img src="https://img.shields.io/badge/VIEW_CODE-9333EA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View MedIntel repository"></a>
 
 ### [Personal Portfolio](https://github.com/amanishamore1-ux/MyProtfolio)
 
@@ -93,8 +93,8 @@ A personal developer website showcasing **software projects, technical skills, e
 
 **Tech:** HTML · CSS · JavaScript
 
-<a href="https://github.com/amanishamore1-ux/MyProtfolio"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View portfolio repository"></a>
-<a href="https://amanishamore1-ux.github.io/MyProtfolio/"><img src="https://img.shields.io/badge/LIVE_WEBSITE-0969DA?style=for-the-badge" alt="Visit Anisha's portfolio"></a>
+<a href="https://github.com/amanishamore1-ux/MyProtfolio"><img src="https://img.shields.io/badge/VIEW_CODE-BE185D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View portfolio repository"></a>
+<a href="https://amanishamore1-ux.github.io/MyProtfolio/"><img src="https://img.shields.io/badge/LIVE_WEBSITE-7C3AED?style=for-the-badge" alt="Visit Anisha's portfolio"></a>
 
 ---
 
